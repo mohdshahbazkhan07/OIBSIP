@@ -1,0 +1,30 @@
+
+div{
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+}
+p{
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+h1{
+    text-align: center;
+    color: #333;
+    font-size: 50px;
+    font-family: fantasy;
+
+}
+#main{
+background-color: rgb(0, 0, 0);
+
+}
+img{
+    min-width: 50%;
+    height: auto;
+    display: block;
+    margin:  0 auto;
+}
